@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="img/t-letter.gif" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tamal. <img src="https://icons8.com/icon/esGVrxg9VCJ1/india" width="13"/> <b>India, Kolkata.
+<p>Welcome to my page! </br> I'm Tamal. <img src="img/icons8-india-96.png" width="13"/> <b>India, Kolkata.
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" />
