@@ -1,4 +1,4 @@
-<h1><img src="img/t-letter.gif" width="40"/> Hey! Nice to see you.</h1>
+#<img src="img/t-letter.gif" width="40"/> Hey! Nice to see you.
 #About Me:
 Hi I'm Currently working as a software engineer
 
