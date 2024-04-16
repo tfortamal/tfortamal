@@ -1,6 +1,6 @@
 # <img src="img/t-letter.gif" width="40"/> Hey! I'm Tamal, Nice to see you.
 # About Me:
-Hi I'm Currently working as a software engineer
+I'm Currently working as a software engineer and learning about Deep Leaning and Artificial Intelligence.
 
 
 ## 🌐 Socials:
