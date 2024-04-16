@@ -1,4 +1,4 @@
-<h1><img src="img/t-letter.gif" width="300"/> Hey! Nice to see you.</h1>
+<h1><img src="img/t-letter.gif" width="1000"/> Hey! Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Tamal, from <img src="img/icons8-india-96.png" width="13"/> <b>India, Kolkata.
