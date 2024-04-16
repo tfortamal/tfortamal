@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1><img src="img/t-letter.gif" width="1000"/> Hi there, I'm Tamal! </h1>h1>
+#About Me:
 Hi I'm Currently working as a software engineer
 
 
