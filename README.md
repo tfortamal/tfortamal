@@ -5,7 +5,7 @@
 </br> I'm Tamal, from <img src="img/icons8-india-96.png" width="13"/> <b>India, Kolkata.
 <h3>Things I code with</h3>
 <p>
-  <img alt="Python" src="https://icons8.com/icon/Rc0Xn5AtE8kX/python" />
+  <img alt="Python" src="img/icons8-python.gif" />
   <img alt="YOLO" src="img/YOLO.png" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
