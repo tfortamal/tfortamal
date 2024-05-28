@@ -1,5 +1,5 @@
-# <img src="img/t-letter.gif" width="40"/> Hey! I'm Tamal, Nice to see you.
-# About Me:
+## Hey! I'm Tamal, Nice to see you.
+## About Me:
 I'm Currently working as a software engineer and learning about Deep Learning and Artificial Intelligence.
 
 
